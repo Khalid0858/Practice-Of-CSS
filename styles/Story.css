@@ -1,0 +1,23 @@
+.first{
+    color: teal;
+    background-color: aliceblue;
+    border: 10px solid darkblue;
+    padding: 5px;
+    margin: 2px;
+    font-weight: bolder;
+    font-style: italic;
+}
+h1{
+    color: blueviolet;
+}
+.second{
+    color: darkblue;
+    background-color: aliceblue;
+    border: 20px solid darkcyan;
+    padding: 10px;
+    font-weight: bolder;
+    
+}
+h2{
+    color: brown;
+}
